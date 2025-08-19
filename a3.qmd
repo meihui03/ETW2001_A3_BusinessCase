@@ -1,0 +1,399 @@
+---
+title: "A3"
+author: "Kang Jia Xin, Lok Mei Hui, Binyi Tang, Yaci Zhu"
+format: html
+editor: visual
+---
+
+# Forum Summary
+
+The forum titled “Bridging Insight and Industry: How Business Analytics is Shaping Career Landscapes” brought together professionals from diverse fields data science, business leadership, IT and audit, and human resources. The session focused on how business analytics is currently applied across industries, the practical challenges faced by organizations, and the shifting skillsets required in the workforce. Each speaker provided a specific perspective based on their professional role, illustrating how analytics is transforming both organizational decision-making and career trajectories.
+
+A data scientist opened the discussion by sharing an example from the auditing domain. They explained how statistical variance analysis, particularly the visual highlighting of deviations in red, supports auditors in identifying anomalies more efficiently. Rather than scanning entire datasets manually, auditors can now focus on key figures that stand out. This targeted approach saves time and improves precision in audit tasks. The speaker emphasized the importance of not just building complex models, but of ensuring that analytical outputs are meaningful and user-friendly. The data scientist also noted that the primary role of analytics in many operational settings is to facilitate informed decision-making, not just produce reports.
+
+The director of business analytics provided an overview of the broader historical shift in the use of analytics tools. They reflected on how, in the past, many companies relied on basic spreadsheet software like Excel and collected large amounts of data without clear strategies for its use. In contrast, today’s business environment is increasingly characterized by efforts to align data analytics with both external market conditions and internal operational needs. The director observed that many companies now recognize the value of data, leading to significant investment in artificial intelligence, predictive models, and data platforms. However, they also noted that investing in technology alone is not enough. Organizations must build collaborative teams that combine technical, analytical, and domain-specific expertise. Teamwork is crucial, especially when implementing analytics tools that affect multiple business functions.
+
+A manager representing IT and audit integration spoke about the importance of data infrastructure and communication between departments. They emphasized that timing is a critical factor when managing data warehouses. For data to support business operations, it must be accessible at the appropriate time and in a usable format. The speaker also highlighted the importance of data visualization in internal reporting. Each chart or graph produced should have a clear purpose and be directly linked to a decision or operational issue. Visualizations should not be created for presentation purposes alone; instead, they should be used to prompt relevant actions. The manager also mentioned that their team applies machine learning models to inform pricing decisions. However, a major challenge they encounter is the communication gap between IT and audit departments. To address this, some organizations have started assigning audit professionals to IT teams to act as intermediaries. These individuals help ensure that the technical solutions developed meet audit requirements and that both teams share a mutual understanding of objectives.
+
+The human resources (HR) speaker focused on the challenges of recruiting suitable candidates for analytics roles. One of the biggest gaps identified was that many job applicants are proficient in programming and data tools but lack broader problem-solving and communication skills. Organizations are not just looking for individuals who can run models or write code; they want employees who understand the context of business problems, who can identify what the organization needs to solve, and who can clearly explain their findings to non-technical stakeholders. During recruitment, HR professionals assess candidates based not only on their technical qualifications but also on their ability to engage in practical reasoning, adapt to changing scenarios, and work collaboratively. The HR representative emphasized that asking the right questions during the analytical process is just as important as finding the right answers. They added that modern analytics professionals should aim to act more like consultants, people who can guide decision-making and work in partnership with AI tools rather than simply designing them.
+
+Together, these perspectives illustrated a common theme: business analytics is becoming a core function across all areas of an organization. It is no longer confined to a specific role or department. In many companies, analytics is integrated into marketing, finance, HR, supply chain, and strategic planning. This integration demands that employees possess a mixture of technical knowledge, domain understanding, and soft skills. Professionals are increasingly required to interpret data, present insights, and collaborate with others across functional boundaries.
+
+Another point raised during the forum was the changing nature of career development in analytics. Whereas previous roles may have had clearly defined responsibilities, today’s analytics professionals are often required to be flexible. They may take on different responsibilities depending on the project such as working as a technical analyst on one initiative and serving as a business advisor on another. This flexibility has led to more fluid career paths. It also implies that professionals must engage in continuous learning, particularly as analytics tools and techniques evolve.
+
+Education and upskilling were also discussed as critical components in preparing for a career in business analytics. While universities provide a foundation in statistics, programming, and data modeling, real-world business problems often require additional skills that are not always covered in academic settings. These include stakeholder management, ethical decision-making, and the ability to work with ambiguity. The speakers agreed that organizations should invest not only in technology but also in training their staff. Encouraging employees to develop communication and consulting skills was seen as essential for the long-term success of analytics initiatives.
+
+In conclusion, the forum provided a realistic view of how business analytics is applied in industry today. Technical skills such as programming and modeling remain essential, but they must be combined with critical thinking, communication, and collaboration. Successful analytics professionals are those who can translate data into context-specific insights, explain those insights clearly, and work with diverse teams to implement decisions. As analytics continues to expand across industries, the demand for well-rounded professionals who can bridge technical tools and business understanding is expected to grow.
+
+(word count 992)
+
+# 1. Article Selection
+
+Jim, C. (2023, October 17). Country Garden: What happens next? *Reuters*. <https://www.reuters.com/world/china/country-garden-what-happens-next-2023-10-17/>
+
+This news mainly describes the crisis of Country Garden, China's largest residential real estate development company, and describes the business challenges and conditions faced by the company. The main problem is the serious debt crisis faced by the company.
+
+As of the end of June 23 2023, Country Garden's total debt was as high as 191.46 billion US dollars. The article describes the company's shortage of funds, the high debt and some defaults, the decline in real estate market demand, the market's loss of confidence in the company, and the local government's restrictions on the proportion of real estate company debt in the early years, which further aggravated its debt crisis. Although the government may intervene again later, the company was already in crisis at that time.
+
+The specific reasons will be analyzed in detail below.
+
+# 2. Problem Identification
+
+Country Garden is one of China’s largest residential real estate developers. It is listed in Hong Kong and has expanded into several overseas markets, including major projects in Malaysia, making it one of the most internationally recognized Chinese property firms. However, despite once being ranked among the Fortune Global 500, the company experienced a severe financial crisis in 2023, facing debt defaults, cash flow problems, and stalled construction projects. We believe that this crisis was mainly caused by its aggressive high-leverage expansion strategy, unbalanced investment direction, and the continued deterioration of policy and market conditions.
+
+For many years, Country Garden relied heavily on borrowed funds to support rapid development and expansion. This "high leverage, high turnover" model brought significant profits during China’s property boom and allowed the company to quickly gain market share and expand abroad. However, as the industry entered a downturn, the company failed to adapt. It continued to operate under the same model, causing its debt levels to rise sharply. By the first half of 2023, the company reported a record net loss of 45.35 billion RMB (*Interim Report, n.d.,* p.6), indicating that its financial system could no longer withstand downward pressure.
+
+The worsening external environment was one of the key factors pushing Country Garden toward a severe operational crisis and even the risk of collapse. Since 2021, the Chinese government introduced the "*Three Red Lines Policy*"(mbeba, 2021), which imposed stricter requirements on developers and tightened credit access. This made it increasingly difficult for Country Garden to secure financing. At the same time, the COVID-19 pandemic caused a prolonged market slowdown. Reuters notes that investor confidence dropped, and buyers increasingly avoided presale properties, sales declined sharplyfurther, reducing cash inflows (Jim, 2023). So the company’s ability to collect payments from projects was seriously affected.
+
+As of June 2023, Country Garden held 257.9 billion RMB in interest-bearing debt, with a net debt ratio rising to 50.1% (*Interim Report, n.d.,* p.7). Financing channels continued to shrink, and investor confidence had yet to recover. Under the dual pressure of poor sales and limited funding, the company gradually lost the ability to maintain operations and repay debt, ultimately facing a liquidity crunch.
+
+Beyond external shocks, deeper internal structural issues played a major role in Country Garden’s downfall. When the market environment changed fundamentally, the company failed to shift strategy and continued its reliance on rapid, debt-driven growth. More critically, it made poor strategic decisions by allocating a large share of resources to lower-tier cities in China. In the first half of 2023, 63% of its contracted sales came from these areas (*Interim Report, n.d.,* p.10), which often suffer from population decline, weak demand, and imbalanced supply. Continued investment in such low-return and hard-to-monetize markets weakened the company’s cash flow even further. When these investment choices were combined with a high-leverage operating model, the financial risk increased rapidly. Since the company was already highly dependent on debt, its financial structure lacked flexibility. Any dip in sales quickly created serious cash flow issues. Country Garden failed to recognize the shift in supply and demand (*Interim Report, n.d.,* p.7) and took no effective action to correct course, eventually collapsing under both internal and external pressures.
+
+In summary, Country Garden’s crisis was caused by the intersection of **internal mismanagement such as poor investment choices and strategic inflexibility, and external shocks**, including regulatory tightening and market contraction. These issues collectively led to a severe liquidity crisis and threatened the company’s operational viability.
+
+# 3. Data set Selection
+
+Based on the identified risks, namely real estate market volatility, high leverage and liquidity issues, rising interest rates, and foreign currency exposure, the following datasets were selected:
+
+1.  Real Residential Property Prices for China (FRED)
+
+    url: <https://fred.stlouisfed.org/series/QCNR628BIS>
+
+    This dataset reflects the changes in residential real estate prices in China over time. Since Country Garden’s business performance is highly sensitive to property prices, analyzing this data will help uncover demand trends and regional risks, especially in lower-tier cities where the company has concentrated its investments.
+
+    Time range: Q1 2018 – Q4 2023. Capture price trends before and during the market downturn.
+
+2.  Lending Interest Rate in China (World Bank)
+
+    url: <https://data.worldbank.org/indicator/FR.INR.LNDP?locations=CN>
+
+    Country Garden’s financial model heavily depends on borrowed capital, and most of its loans are on floating interest terms. This dataset provides historical interest rate trends, which can be used to assess the impact of borrowing cost increases on the company’s financial health. While the interest rate spread dataset was initially considered to assess Country Garden’s financial burden, the data from 2018–2023 remained largely flat at \~2.9%. This lack of variation offers limited analytical value for modeling financial stress or trend correlation. Therefore, we **excluded it from deeper analysis**.
+
+    Time range: 2018 – 2023. Track borrowing cost increases and correlation with debt pressure.
+
+3.  RMB to USD Exchange Rate (FRED)
+
+    url: <https://fred.stlouisfed.org/series/EXCHUS>
+
+    With a portion of Country Garden’s debt denominated in foreign currencies (USD and HKD), exchange rate fluctuations introduce substantial financial risk. This dataset will allow us to simulate foreign exchange exposure and evaluate potential currency-driven financial pressure.
+
+    Time range: Jan 2018 – Dec 2023 (monthly). Observe FX volatility impacting USD/HKD-denominated debt.
+
+4.  Company Bankruptcy Prediction Dataset (Kaggle)
+
+    url: <https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction>
+
+    This dataset includes a wide range of financial indicators (e.g., debt ratios, cash flow, profitability metrics) across various firms, labeled with bankruptcy outcomes. To better understand the internal financial risks Country Garden may face, we used a pre-labeled bankruptcy prediction dataset to train a basic classification model (logistic regression and decision tree) using R. This model helps identify financial ratios that are strongly associated with business failure, simulating the conditions under which a firm may experience a liquidity crisis. These insights inform our recommendations on improving financial resilience.
+
+# 4. Data Analysis
+
+Dataset 1.Real Residential Property Prices for China
+
+Since we are analysing a real estate company, we firstly analyse the residential property price trends in the country where the company is located. Residential property prices in a country provide the most direct indication of the country's house price trends and profitability.
+
+```{r}
+#data perprocessing
+library(tidyverse)
+
+df_price <- read.csv("QCNR628BIS.csv")
+
+df_price <- df_price %>%
+  rename(date = observation_date, price_index = QCNR628BIS) %>%
+  mutate(date = ymd(date),
+         year = year(date),
+         quarter = quarter(date, with_year = TRUE))
+#head(df_price)
+#summary(df_price)
+```
+
+```{r}
+ggplot(df_price, aes(x = date, y = price_index)) +
+  geom_line(color = "steelblue", linewidth = 1) +
+  geom_vline(xintercept = as.Date("2020-08-01"), linetype = "dashed", color = "red3") +
+  annotate("text", x = as.Date("2020-08-01"), y = min(df_price$price_index, na.rm = TRUE),
+           label = "Three Red Lines Policy", vjust = -0.5, color = "red3") +
+  labs(title = "China Real Residential Property Price Index (2018–2023)",
+       x = "Date", y = "Price Index") +
+  theme_minimal()
+
+```
+
+**Figure 1: Residential Property Price Index (Time Series)**
+
+The first graph shows the trend of residential property prices in the country over the last 20 years, and the red line marks the point in time when we analysed the problem and speculated on one of the factors causing problems for the company (the new policies introduced by the country).
+
+It can be seen that prior to the introduction of the policy of limiting the debt-to-equity ratio, the overall price trend was upward, and although there were two troughs, they passed quickly. However, one year after the introduction of the policy prices were in, and reached a peak state, but then continued to fall in high falls directly afterwards, and it is not possible to rule out the impact of the policy. As to whether it is a debt issue will have to continue to be analysed.
+
+```{r}
+#Calculate the year-on-year change
+df_price <- df_price %>%
+  arrange(date) %>%
+  mutate(yoy_change = (price_index / lag(price_index, 4) - 1) * 100)
+
+ggplot(df_price %>% filter(!is.na(yoy_change)), aes(x = date, y = yoy_change, fill = yoy_change > 0)) +
+  geom_col() +
+  geom_hline(yintercept = 0, color = "gray60", linetype = "dashed") +
+  scale_fill_manual(values = c("TRUE" = "lightblue", "FALSE" = "red4")) +
+  labs(title = "Year-over-Year Change in Property Price Index",
+       x = "Year", y = "YOY% Change") +
+  theme_light()+
+  guides(fill = "none")
+
+```
+
+**Figure 2: Year-Over-Year Change In Property Prices**
+
+I've previously time-split the data by quarter, and here, each bar in this graph represents a quarter of year-over-year expense growth. You can visually see the higher but fluctuating hot/cold alternating house price increases from 2010 to 2014, the continued steady house price growth from 2015 to 2019, the slight but quick recovery in early 2020 probably due to the special period, and the multiple consecutive enviable year-on-year house price negatives starting after 2021, with declines of -5% to -8%.
+
+Dataset 2.Lending Interest Rate in China
+
+Although it was mentioned earlier that interest rate differentials do not fluctuate much and are not suitable for analyzing the financial pressures faced by the business, the data is still visualised here to demonstrate this.
+
+```{r}
+
+df_interest <- read.csv("API_FR.INR.LNDP_DS2_en_csv_v2_91141.csv",skip = 4)#start from actual data
+#head(df_interest)
+
+#The last 10 years of data were extracted and changed to a long format.
+df_china_interest <- df_interest %>%
+  filter(Country.Name == "China")%>%
+  select("Country.Name", "Country.Code", "Indicator.Name", "Indicator.Code", "X2015","X2016","X2017","X2018","X2019", "X2020","X2021","X2022","X2023","X2024")%>%
+  pivot_longer(cols = starts_with("X"),
+               names_to = "year",
+               names_prefix = "X",
+               values_to = "interest_rate") %>%
+  mutate(year = as.integer(year),
+         interest_rate = as.numeric(interest_rate))
+
+#df_china_interest
+```
+
+```{r}
+ggplot(df_china_interest%>% filter(!is.na(interest_rate)), aes(x = year, y = interest_rate)) +
+  geom_line(color = "darkorange", size = 1.2) +
+  geom_point(size = 2) +
+  labs(title = "Lending Interest Rate in China (2015–2024)",
+       x = "Year", y = "Interest Rate (%)") +
+  theme_minimal()
+```
+
+**Figure 3: Lending Interest Rates in China**
+
+As can be seen from the graph, the lending rate spread in China has not changed in the last ten years hence, there is no need to calculate the correlation
+
+Dataset 3.
+
+```{r}
+library(ggplot2)
+library(readr)
+library(dplyr)
+library(lubridate)
+library(zoo)
+
+# Read exchange rate data
+exchange_data <- read_csv("exchange_rate.csv")
+
+# Rename columns to match the actual file
+exchange_data <- exchange_data %>%
+  rename(Date = observation_date, Rate = EXCHUS) %>%
+  mutate(Date = as.Date(Date)) %>%
+  filter(Date >= as.Date("2018-01-01") & Date <= as.Date("2023-12-31"))%>%
+  arrange(Date)
+
+# Calculate the 6-month rolling standard deviation as a volatility indicator
+exchange_data <- exchange_data %>%
+  arrange(Date) %>%
+  mutate(Rolling_SD = rollapply(Rate, width = 6, FUN = sd, fill = NA, align = "right"))
+
+
+# Standardized Rolling_SD is used for dual-axis plotting
+scaleFactor <- max(exchange_data$Rate, na.rm = TRUE) / max(exchange_data$Rolling_SD, na.rm = TRUE)
+exchange_data <- exchange_data %>%
+  mutate(Scaled_SD = Rolling_SD * scaleFactor)
+
+# Double coordinate axes, exchange rate + volatility
+ggplot(exchange_data, aes(x = Date)) +
+  geom_line(aes(y = Rate), color = "steelblue", size = 1) +
+  geom_line(aes(y = Scaled_SD), color = "darkred", size = 1) +
+  scale_y_continuous(
+    name = "Exchange Rate",
+    sec.axis = sec_axis(~ . / scaleFactor, name = "Rolling Std Dev")
+  ) +
+  labs(title = "RMB/USD Exchange Rate & 6-Month Volatility",
+       x = "Date") +
+  theme_minimal() +
+  theme(
+    axis.title.y.left = element_text(color = "steelblue"),
+    axis.title.y.right = element_text(color = "darkred")
+  )
+```
+
+**Figure 4: Exchange Rate Volatility (Rolling Std Dev)**
+
+Using R, I analyzed RMB to USD exchange rate data (2018–2023). Figure 1 shows a general upward trend: RMB depreciation especially during 2018 and 2022. This suggests higher costs for repaying USD/HKD debt. If Country Garden held such liabilities, it likely faced rising repayment burdens in these periods.
+
+Figure 2 presents the 6-month rolling volatility, These peaks indicate periods of heightened exchange rate uncertainty. Without effective hedging, Country Garden would have been more exposed to exchange losses and liquidity stress during these volatile phases.
+
+Dataset 4.
+
+In this analysis, I compared the average values of financial variables between bankrupt and non-bankrupt companies to identify key features associated with bankruptcy risk. To ensure fair comparison, I categorized variables into ratio-type and value-type based on their overall means: if the average was below 1, the variable was treated as a ratio and the absolute difference was used; otherwise, it was treated as a value-type variable and the relative difference (difference divided by the non-bankrupt mean) was applied. This approach prevents value-type variables from dominating the ranking and presents all differences in a comparable ratio format.
+
+The final output is a sorted table of variable differences, highlighting which financial indicators show the most significant contrast between bankrupt and non-bankrupt companieshelping to identify potential financial risk factors.
+
+```{r}
+library(dplyr)
+
+# Read the data
+df <- read.csv("data.csv", check.names = FALSE)
+
+# Split the data into bankrupt and non-bankrupt groups
+df_bankrupt <- df %>% filter(`Bankrupt?` == 1)
+df_nonbankrupt <- df %>% filter(`Bankrupt?` == 0)
+
+# Calculate the mean of each variable (excluding the label column)
+mean_b <- df_bankrupt %>% select(-`Bankrupt?`) %>% summarise(across(everything(), mean, na.rm = TRUE)) %>% t()
+mean_nb <- df_nonbankrupt %>% select(-`Bankrupt?`) %>% summarise(across(everything(), mean, na.rm = TRUE)) %>% t()
+
+# Combine results into a data frame
+comparison_df <- data.frame(
+  Variable = rownames(mean_b),
+  Mean_Bankrupt = mean_b[,1],
+  Mean_NonBankrupt = mean_nb[,1]
+)
+
+# Calculate the overall mean for each variable (used to classify variable type)
+overall_mean <- df %>% select(-`Bankrupt?`) %>% summarise(across(everything(), mean, na.rm = TRUE)) %>% t()
+comparison_df$Overall_Mean <- overall_mean[,1]
+
+# Determine if the variable is ratio-type (overall mean < 1)
+comparison_df <- comparison_df %>%
+  mutate(
+    is_ratio = Overall_Mean < 1,
+    Relative_Diff = if_else(
+      is_ratio,
+      abs(Mean_Bankrupt - Mean_NonBankrupt),
+      if_else(Mean_NonBankrupt == 0, NA_real_, abs((Mean_Bankrupt - Mean_NonBankrupt) / (Mean_NonBankrupt)))
+    )
+  )
+
+# Clean and sort the final output by relative difference
+comparison_df_final <- comparison_df %>%
+  select(Variable, Mean_Bankrupt, Mean_NonBankrupt, is_ratio, Relative_Diff) %>%
+  arrange(desc(Relative_Diff))
+
+rownames(comparison_df_final) <- NULL
+
+show(comparison_df_final)
+```
+
+I used R to compare average financial indicators between bankrupt and non-bankrupt companies. Variables were classified as ratio-type (mean \< 1, using absolute differences) or value-type (mean ≥ 1, using relative differences). This ensured fair comparison across scales.
+
+Top-ranked variables such as Fixed Assets to Total Assets, Net Value Growth Rate, and Cash/Current Liability showed clear gaps, suggesting bankrupt firms often had unbalanced structures and weak liquidity. Quick and Current Ratios were also consistently lower, pointing to short-term solvency issues.
+
+By calculating the average values of these variables among bankrupt companies and comparing them to the maximum values observed in non-bankrupt companies, I aim to identify which variables, when reaching certain extreme levels, may signal financial distress. This provides a useful reference for setting risk thresholds and informing future modeling. In the next stage, we can compare Country Garden’s actual financial data with these benchmark values to assess whether specific financial features may have placed the company in a high-risk zone, potentially contributing to its bankruptcy.
+
+```{r}
+# Specify the variables of interest (ensure names match the CSV exactly)
+vars_of_interest <- c(
+  "Total debt/Total net worth",
+  "Debt ratio %",
+  "Cash flow rate",
+  "Current Ratio",
+  "Interest Coverage Ratio (Interest expense to EBIT)",
+  "Operating Profit Rate",
+  "Retained Earnings to Total Assets"
+)
+
+# Calculate the average values of these variables for bankrupt companies
+mean_selected_vars <- df_bankrupt %>%
+  select(all_of(vars_of_interest)) %>%
+  summarise(across(everything(), mean, na.rm = TRUE)) %>%
+  t() %>%
+  as.data.frame()
+
+colnames(mean_selected_vars) <- "Mean_Bankrupt"
+
+# Calculate the maximum values of these variables for non-bankrupt companies
+max_selected_vars <- df_nonbankrupt %>%
+  select(all_of(vars_of_interest)) %>%
+  summarise(across(everything(), max, na.rm = TRUE)) %>%
+  t() %>%
+  as.data.frame()
+
+colnames(max_selected_vars) <- "Max_NonBankrupt"
+
+
+# Combine the two tables into a single comparison dataframe
+comparison_df <- cbind(Variable = rownames(mean_selected_vars),
+                       mean_selected_vars,
+                       max_selected_vars)
+
+rownames(comparison_df) <- NULL
+
+comparison_df
+
+```
+
+# 5. Proposed Solution
+
+From section 2. problem identification, we propose to address the following critical challenges:
+
+| Category | Specific Problems Identified |
+|----|----|
+| Liquidity & Debt | High leverage; 257.9B RMB in interest-bearing debt; 50.1% net debt ratio |
+| Revenue Pressure | Sales decline; stalled presale activity; cash inflow drop |
+| Market Volatality | Declining real estate prices, especially in Tier-3/4 cities |
+| Policy & Macro Risk | “Three Red Lines” policy tightening credit; rising financing risks |
+| Strategic Missteps | Over-investment in low-demand regions with poor ROI |
+
+We propose a four-panel Shiny dashboard, with each panel designed to transform raw data into actionable business insights. These panels directly target Country Garden’s key risk areas such as demand volatility, debt burden, currency exposure, and financial fragility.
+
+**A. Market Demand Tracker**
+
+**Data Used**: Residential Property Price Index (FRED)\
+**Function**: Monitor price trends in real estate to assess demand risk\
+**Feature**: Triggers an alert if the year-over-year (YoY) price change is negative for three or more consecutive quarters\
+**Business Value**: Supports strategic decisions to pause or accelerate development, particularly in lower-tier cities
+
+**Expected Outcomes:** Enables early identification of market downturns and demand-side distress
+
+**B. Debt & Interest Burden Simulator**
+
+**Data Used**: Lending interest rates (World Bank)\
+**Function**: Simulates debt servicing cost based on changing rates and leverage\
+**Feature**: Issues a warning if annual interest payments exceed a critical threshold (e.g., 10% of annual revenue)\
+**Business Value**: Informs refinancing strategies and debt restructuring planning
+
+**Expected Outcomes:** Promotes proactive financial planning and sustainable capital allocation.
+
+**C. FX Risk Panel**
+
+**Data Used**: RMB to USD exchange rates (FRED) and a 6-month rolling volatility index\
+**Function**: Tracks currency risk on foreign debt exposure\
+**Feature**: Recommends hedging strategies or repayment timing adjustments during high volatility\
+**Business Value**: Helps mitigate unplanned exchange losses that could trigger liquidity stress
+
+**Expected Outcomes:** Facilitates informed currency management based on real-time volatility signals
+
+**D. Bankruptcy Risk Predictor**
+
+**Data Used**: Kaggle company bankruptcy dataset and simulated financial indicators for Country Garden\
+**Function**: Benchmarks current indicators (e.g. current ratio, debt/net worth) against thresholds observed in failed firms\
+**Feature**: Flags financial distress when ≥3 key ratios breach safe zones\
+**Business Value**: Early warning for CFOs and auditors to initiate internal restructuring
+
+**Expected Outcomes:** Automate escalation when high-risk signals persist across panels.
+
+Together, these panels form a comprehensive **financial early-warning dashboard**, grounded in real data and designed for actionable use by executives. This approach not only visualizes risk, but also **drives strategic response** ensuring Country Garden avoids repeating past missteps and builds resilience against future shocks.
+
+# Reference
+
+*Interim Report*. (n.d.). https://www.bgy.com.cn/upload/file/2023-09-26/0bfec168-acc1-4a97-a412-cfbda5ccf36c.pdf
+
+Jim, C. (2023, October 17). Country Garden: What happens next? *Reuters*. https://www.reuters.com/world/china/country-garden-what-happens-next-2023-10-17/
+
+mbeba. (2021, October 14). *Three Red Lines Policy – Regulating China’s Real Estate Developers - EAC International Consulting*. EAC International Consulting. https://eac-consulting.de/china-three-red-lines-policy/
+
+# AI Declaration
+
+We declare that we have used generative AI tools (e.g., ChatGPT) to support our understanding and execution of this assessment. We have critically evaluated and modified the outputs to ensure they align with the specific context and requirements of the assignment. All analysis, interpretation, and final decisions reflect our own work and understanding.
