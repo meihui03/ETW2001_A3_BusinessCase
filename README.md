@@ -9,7 +9,5 @@ The repository includes:
 - **RShiny Application (.R):** Interactive dashboard for exploring dataset insights and demonstrating the proposed solution.  
 - **Presentation Slides (.pdf/.pptx):** Slides used for the in-class presentation summarizing analysis and recommendations.
 
----
 
-## Repository Structure
 
